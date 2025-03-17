@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Lunacores",
+	"clientFolder": "Tibia",
 	"newClientUrl" : "https://lunacores.com/download/client-to-update.zip",
-	"clientExecutable": "lunacores.exe"
+	"clientExecutable": "client.exe"
 }

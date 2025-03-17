@@ -9,7 +9,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "20",
+	"clientVersion": "2025",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -20,7 +20,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "storeimages"
 		},
 		{
-			"name": "Lunacores Client 13\bin"
+			"name": "bin"
 		}
 	],
 	"clientFolder": "Lunacores",

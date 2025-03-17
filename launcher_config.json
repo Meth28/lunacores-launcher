@@ -20,7 +20,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "storeimages"
 		},
 		{
-			"name": "Lunacores Client 13/bin"
+			"name": "Lunacores Client 13\bin"
 		}
 	],
 	"clientFolder": "Lunacores",

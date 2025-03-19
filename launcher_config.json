@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Lunacores",
-	"newClientUrl" : "http://sv.lunacores.com/download/client-to-update.zip",
+	"newClientUrl" : "http://sv.lunacores.com/download/client-to-updatew24.zip",
 	"clientExecutable": "Lunacores.exe"
 }

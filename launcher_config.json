@@ -9,7 +9,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "lunacores.v.0.2",
+	"clientVersion": "lunacores.v.0.2.1",
 	"launcherVersion": "1.1",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Lunacores",
-	"newClientUrl" : "http://sv.lunacores.com/download/lunacores.v.0.2.zip",
+	"newClientUrl" : "http://sv.lunacores.com/download/lunacores.v.0.2.1.zip",
 	"clientExecutable": "Lunacores.exe"
 }
